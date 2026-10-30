@@ -18,4 +18,5 @@ images/ip-config-pc0.png
 
 
 
+<img width="692" height="686" alt="Screenshot 2026-10-30 165122" src="https://github.com/user-attachments/assets/91fd71cd-e005-46af-8517-ec3693452a2f" />
 

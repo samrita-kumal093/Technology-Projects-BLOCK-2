@@ -14,5 +14,6 @@
 images/ip-config-pc0.png
 ```
 
-<img width="809" height="707" alt="Screenshot 2026-10-30 163407" src="https://github.com/user-attachments/assets/20a51ab8-f7bc-4314-b97b-2e50419f2ecf" />
+<img width="707" height="725" alt="Screenshot 2026-10-30 163715" src="https://github.com/user-attachments/assets/754de9a3-5859-44bd-ae5f-19c7ce06ad23" />
+
 

@@ -14,5 +14,6 @@ Insert your topology screenshot (saved inside `images/`).
 ```
 
 
-<img width="578" height="582" alt="Screenshot 2026-10-30 164421" src="https://github.com/user-attachments/assets/b78510cb-206e-4436-8f26-2ce1c83451c0" />
+<img width="809" height="707" alt="Screenshot 2026-10-30 163407" src="https://github.com/user-attachments/assets/df560b6b-fd54-4b18-a3ed-2f85ba7ea1dd" />
+
 

@@ -12,5 +12,6 @@ _Write your list here…_
 Insert your topology screenshot (saved inside `images/`).
 
 ```
+<img width="578" height="582" alt="Screenshot 2026-10-30 164421" src="https://github.com/user-attachments/assets/b78510cb-206e-4436-8f26-2ce1c83451c0" />
 
 
